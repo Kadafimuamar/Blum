@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 1488
-API_HASH = 'abcde1488'
+API_ID = 11450128
+API_HASH = '0384518e3ba0d967a1509afd4d53b729'
 
 DELAYS = {
     'ACCOUNT': [5, 15],  # delay between connections to accounts (the more accounts, the longer the delay)
